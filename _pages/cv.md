@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * Doctor of Science, Department of Computational Biology & Medical Science, The University of Tokyo, Oct.2021-Sep.2024 (expected)
-* M.Eng. in Jekyll, GitHub University, 2014
-* Bachelor of Engineering, Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Visiting Scholar, Department of Chemistry, Carnegie Mellon University, Sep.2023-Nov.2023
+* Master of Engineering, Department of Mechanical Engineering, The University of Tokyo, Sep.2019-Sep.2021
+* Bachelor of Engineering, Department of Mechanical Engineering, Shandong University, Sep.2015-Jun.2019
 
 Work experience
 ======

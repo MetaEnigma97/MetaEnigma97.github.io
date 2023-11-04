@@ -14,6 +14,4 @@ redirect_from:
 
 🏂 I love snowboarding, playing the guitar and travelling in my spare time.
 
-<p align="right">
-  <img src="images/coco.png" />
-</p>
+<img style="float: right;" src="whatever.jpg">

@@ -18,15 +18,17 @@ Education
 
 Work experience
 ======
+* [Preferred Networks](https://www.preferred.jp/en/): Part-time Employee, Dec.2023-
+  * Complete the research on designing equivariant nerual networks for materials propery prediction.
+  * The study will be an example for customers about usage of Matlantis on material discovery application.
+
 * [Preferred Networks](https://www.preferred.jp/en/): Research Internship, Aug.2023-Sep.2023
   * R&D on material discovery algorithms using Neural Network Potential (NNP) in [Matlantis](https://matlantis.com/) Group.
   * Design equivariant neural networks for material property prediction. Initial results showed our model outperforms the current state-of-the-art models. More validation is going to be conducted to prepare an academic paper.
 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [RIKEN Center for Advanced Intelligence Project (AIP)](https://www.riken.jp/en/research/labs/aip/): Student Trainee, Oct.2021-
+  * Design liquid electret materials for stretchable energy harvesters based on machine learning.
+  * Validate the designed promising candidate materials with quantum chemistry computation and experiments.
   
 Skills
 ======

@@ -16,7 +16,7 @@ redirect_from:
   <img  width="200" src="/images/coco.jpg">
   <center>Coco!!</center>
 </div> -->
-💻 My research interests include machine learning and optimization algorthms on material sciences.
+💻 My research interests include machine learning and optimization algorthms on material science.
 
 🏂 I love snowboarding, playing the guitar and travelling in my spare time. I have a cat named Chemical(coco).
 

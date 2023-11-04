@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Science, Department of Computational Biology & Medical Science, The University of Tokyo, Oct.2021-Sep.2024 (expected)
+* M.Eng. in Jekyll, GitHub University, 2014
+* Bachelor of Engineering, Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======

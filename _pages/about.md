@@ -17,6 +17,6 @@ redirect_from:
 🏂 I love snowboarding, playing the guitar and travelling in my spare time. I have a cat named Chemical(coco).
 
 <div>
-  <img align="right" width="200px" src="/images/coco.jpg" alt="coco">
+  <img align="right" width="200" src="/images/coco.jpg" alt="coco">
   <center>Coco!!</center>
 </div>

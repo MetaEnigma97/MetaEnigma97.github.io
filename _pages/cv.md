@@ -18,10 +18,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [Preferred Networks](https://www.preferred.jp/en/): Research Internship, Aug.2023-Sep.2023
+  * R&D on material discovery algorithms using Neural Network Potential (NNP) in [Matlantis](https://matlantis.com/) Group.
+  * Design equivariant neural networks for material property prediction. Initial results showed our model outperforms the current state-of-the-art models. More validation is going to be conducted to prepare an academic paper.
+
 
 * Fall 2015: Research Assistant
   * Github University

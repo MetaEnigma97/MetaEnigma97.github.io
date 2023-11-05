@@ -9,24 +9,24 @@ redirect_from:
 
 ## Pets
 
-<figure>
+<figure style="width: 200px">
   <img src="/images/coco.jpg" alt="image of coco">
-  <figcaption>Coco!!</figcaption>
+  <figcaption style="text-align: center;">Coco!!</figcaption>
 </figure>
 
-<figure>
+<figure style="width: 200px">
   <img src="/images/chem.jpg" alt="image of chem">
-  <figcaption>Chem!!</figcaption>
+  <figcaption style="text-align: center;">Chem!!</figcaption>
 </figure>
 
 ## Travelling
 
-<figure>
+<figure style="width: 200px">
   <img src="/images/new_york.jpg" alt="new york">
-  <figcaption>New York</figcaption>
+  <figcaption style="text-align: center;">New York</figcaption>
 </figure>
 
-<figure>
+<figure style="width: 200px">
   <img src="/images/princeton.jpg" alt="princeton">
-  <figcaption>Princeton University</figcaption>
+  <figcaption style="text-align: center;">Princeton University</figcaption>
 </figure>

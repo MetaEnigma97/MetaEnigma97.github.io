@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About Me
 
 🏫 I am a final year PhD student supervised by [Prof. Koji Tsuda(津田 宏治)](https://scholar.google.com/citations?user=HvVqBmkAAAAJ&hl=en) in [Laboratory of Large-Scale Knowledge Discovery (Tsuda Lab)](https://www.tsudalab.org/) in Department of Computational Biology & Medical Science at The Unversity of Tokyo. I was a visiting scholar in [Assoc. Prof. Olexandr Isayev](https://scholar.google.com/citations?user=7ICaR4EAAAAJ&hl=en)'s lab in Department of Chemistry in Carnegie Mellon University in Fall 2023. I obtained my MEng. from Department of Mechanical Engineering at The University of Tokyo in September 2021, supervised by [Prof. Yuji Suzuki(鈴木 雄二)](http://www.mesl.t.u-tokyo.ac.jp/users/ysuzuki/). Before that, I got my BEng. from Department of Mechanical Engineering at Shandong University in June 2019.
 
@@ -20,14 +20,15 @@ redirect_from:
 
 🏂 I love snowboarding, playing the guitar and travelling in my spare time. I have a cat named Chemical(Coco) in Japan.
 
-# News
+## News
 
 <div style="height: 200px; overflow: auto;">
+- [10/2023] Accepted as a part-time emploty in Preferred Networks from December, 2023!
 - [09/2023] Start my academic visiting in CMU!
 </div>
 
 
-# Honors & Awards
+## Honors & Awards
 
 * Designing Future Society (DFS) Fellowship (~1%), Sep. 2021 – Sep. 2024 at The University of Tokyo
 * World-leading Innovation Graduate Study Program, Co-design Future Society (WINGS-CFS) (~3%), Apr. 2021 – Sep. 2024 at The University of Tokyo

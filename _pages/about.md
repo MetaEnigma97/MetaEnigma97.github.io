@@ -20,3 +20,17 @@ redirect_from:
 
 🏂 I love snowboarding, playing the guitar and travelling in my spare time. I have a cat named Chemical(Coco) in Japan.
 
+# News
+
+<div class="scrollable-block">
+  123
+  456
+  789
+</div>
+
+# Honors & Awards
+
+* Designing Future Society (DFS) Fellowship (~1%), Sep. 2021 – Sep. 2024 at The University of Tokyo
+* World-leading Innovation Graduate Study Program, Co-design Future Society (WINGS-CFS) (~3%), Apr. 2021 – Sep. 2024 at The University of Tokyo
+* Japanese Government MEXT Scholarship (~1%), Sep. 2019 - Sep. 2021 at The University of Tokyo
+* Shandong University Excellent Graduate in 2019 (~5%), Jun. 2019 at Shandong University

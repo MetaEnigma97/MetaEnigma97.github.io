@@ -33,4 +33,5 @@ redirect_from:
 </div>
 
 
-<a href="https://clustrmaps.com/site/1bx9c"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&cl=ffffff" /></a>
+<br/><br/>
+<a href="https://clustrmaps.com/site/1bx9c"  title="Visit tracker"><img style="width: 600px" src="//www.clustrmaps.com/map_v2.png?d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&cl=ffffff" /></a>

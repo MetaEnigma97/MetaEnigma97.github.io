@@ -11,34 +11,34 @@ redirect_from:
 
 <figure style="width: 600px">
   <img src="/images/coco.jpg" alt="image of coco">
-  <figcaption style="text-align: center;">Coco!!</figcaption>
+  <figcaption class="figure-caption text-center">Coco!!</figcaption>
 </figure>
 
 <figure style="width: 600px">
   <img src="/images/chem.jpg" alt="image of chem">
-  <figcaption style="text-align: center;">Chem!!</figcaption>
+  <figcaption class="figure-caption text-center">Chem!!</figcaption>
 </figure>
 
 ## Sports
 
 <figure style="width: 600px">
   <img src="/images/snowboard.jpg" alt="snowboard">
-  <figcaption style="text-align: center;">Snowboarding in Japan</figcaption>
+  <figcaption class="figure-caption text-center">Snowboarding in Japan</figcaption>
 </figure>
 
 ## Travelling
 
 <figure style="width: 600px">
   <img src="/images/new_york.jpg" alt="new york">
-  <figcaption style="text-align: center;">New York</figcaption>
+  <figcaption class="figure-caption text-center">New York</figcaption>
 </figure>
 
 <figure style="width: 600px">
   <img src="/images/princeton.jpg" alt="princeton">
-  <figcaption style="text-align: center;">Princeton University</figcaption>
+  <figcaption class="figure-caption text-center">Princeton University</figcaption>
 </figure>
 
 <figure style="width: 600px">
   <img src="/images/kyoto.jpg" alt="kyoto">
-  <figcaption style="text-align: center;">Kyoto</figcaption>
+  <figcaption class="figure-caption text-center">Kyoto</figcaption>
 </figure>

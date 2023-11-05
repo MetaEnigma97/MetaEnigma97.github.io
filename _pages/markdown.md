@@ -13,36 +13,21 @@ redirect_from:
 <center><img src="/images/coco.jpg" alt="image of coco" style="width: 600px"></center>
 <center>Coco!!</center>
 
-<figure style="width: 600px">
-  <img src="/images/coco.jpg" alt="image of coco">
-  <figcaption class="figure-caption text-center">Coco!!</figcaption>
-</figure>
-
-<figure style="width: 600px">
-  <img src="/images/chem.jpg" alt="image of chem">
-  <figcaption class="figure-caption text-center">Chem!!</figcaption>
-</figure>
+<center><img src="/images/chem.jpg" alt="image of chem" style="width: 600px"></center>
+<center>Chem!!</center>
 
 ## Sports
 
-<figure style="width: 600px">
-  <img src="/images/snowboard.jpg" alt="snowboard">
-  <figcaption class="figure-caption text-center">Snowboarding in Japan</figcaption>
-</figure>
+<center><img src="/images/snowboard.jpg" alt="snowboard" style="width: 600px"></center>
+<center>Snowboarding in Japan</center>
 
 ## Travelling
 
-<figure style="width: 600px">
-  <img src="/images/new_york.jpg" alt="new york">
-  <figcaption class="figure-caption text-center">New York</figcaption>
-</figure>
+<center><img src="/images/new_york.jpg" alt="new york" style="width: 600px"></center>
+<center>New York</center>
 
-<figure style="width: 600px">
-  <img src="/images/princeton.jpg" alt="princeton">
-  <figcaption class="figure-caption text-center">Princeton University</figcaption>
-</figure>
+<center><img src="/images/princeton.jpg" alt="princeton" style="width: 600px"></center>
+<center>Princeton</center>
 
-<figure style="width: 600px">
-  <img src="/images/kyoto.jpg" alt="kyoto">
-  <figcaption class="figure-caption text-center">Kyoto</figcaption>
-</figure>
+<center><img src="/images/kyoto.jpg" alt="kyoto" style="width: 600px"></center>
+<center>Kyoto</center>

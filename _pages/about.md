@@ -23,11 +23,13 @@ redirect_from:
 ## News
 
 <div style="height: 200px; overflow: auto;">
-- [10/2023] Accepted as a part-time emploty in Preferred Networks from December, 2023!
-- [09/2023] Start my academic visiting in CMU!
-- [08/2023] Start my summer internship in Preferred Networks, Tokyo!
-- [07/2023] My paper "AI-driven Discovery of Amorphous Fluorinated Polymer Electret with High Charge Stability for Energy Harvesting" is accepted to Advanced Materials!!
-- [06/2023] My paper "Chemical Design with GPU-based Ising Machines" is accepted to Digital Discovery!
+  <ul>
+    <li>[10/2023] Accepted as a part-time emploty in Preferred Networks from December, 2023!</li>
+    <li>[09/2023] Start my academic visiting in CMU!</li>
+    <li>[08/2023] Start my summer internship in Preferred Networks, Tokyo!</li>
+    <li>[07/2023] My paper "AI-driven Discovery of Amorphous Fluorinated Polymer Electret with High Charge Stability for Energy Harvesting" is accepted to Advanced Materials!!</li>
+    <li>[06/2023] My paper "Chemical Design with GPU-based Ising Machines" is accepted to Digital Discovery!</li>
+  </ul>
 </div>
 
 

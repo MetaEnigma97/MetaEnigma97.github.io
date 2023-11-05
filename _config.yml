@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zetian MAO"
   avatar           : "profile.jpeg"
-  bio              : "3rd-year PhD Student in The University of Tokyo"
+  bio              : "Final-year PhD Student in The University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=gwDBa-8AAAAJ&hl=en"
-  email            : "zt.mao97@gmail.com"
+  email            : "zt.mao97 [at] gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

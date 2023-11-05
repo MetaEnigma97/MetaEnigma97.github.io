@@ -22,17 +22,10 @@ redirect_from:
 
 # News
 
-<details>
-  <summary>Click to expand</summary>
+<div style="height: 200px; overflow: auto;">
+- [09/2023] Start my academic visiting in CMU!
+</div>
 
-  <div style="overflow: auto; max-height: 200px;">
-    <!-- Your content goes here -->
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    // Add more text or content here
-
-    <!-- Add more content to make it scrollable if needed -->
-  </div>
-</details>
 
 # Honors & Awards
 

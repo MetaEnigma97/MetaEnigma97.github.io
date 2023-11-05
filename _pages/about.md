@@ -22,7 +22,7 @@ redirect_from:
 
 ## News
 
-<div style="height: 200px; overflow: auto;">
+<div style="height: 300px; overflow: auto;">
   <ul>
     <li>[10/2023] Accepted as a part-time emploty in Preferred Networks from December, 2023!</li>
     <li>[09/2023] Start my academic visiting in CMU!</li>
@@ -35,4 +35,4 @@ redirect_from:
 
 <br/><br/>
 
-<center><a href='https://clustrmaps.com/site/1bx9c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=c2efd6&w=a&t=n&d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&co=ffffff'/></a><center>
+<center><a href='https://clustrmaps.com/site/1bx9c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=6dc8ed&w=360&t=tt&d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&co=ffffff&ct=808080'/></a><center>

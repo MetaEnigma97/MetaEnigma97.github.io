@@ -22,11 +22,17 @@ redirect_from:
 
 # News
 
-<div class="scrollable-block">
-  123
-  456
-  789
-</div>
+<details>
+  <summary>Click to expand</summary>
+
+  <div style="overflow: auto; max-height: 200px;">
+    <!-- Your content goes here -->
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    // Add more text or content here
+
+    <!-- Add more content to make it scrollable if needed -->
+  </div>
+</details>
 
 # Honors & Awards
 

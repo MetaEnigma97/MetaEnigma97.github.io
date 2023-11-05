@@ -32,12 +32,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Experienced: Python | Bash; Familiar: Java | C/C++
+* Frameworks & Libraries: PyTorch | Tensorflow | Gym | Jupyter | Matplotplib | Numpy | Pandas | Scikit-learn 
+* Cheminformatics: RDKit | OpenBabel | ASE | PyMatgen | Gaussian | VASP | GAMESS | GROMACS
+* Mechanical Engineering: SolidWorks | Keyshot | AutoCAD
+* Languages: Native: Chinese; Fluent: English (IELTS: 7.0; GRE: 321); Fundamental: Japanese
 
 Publications
 ======

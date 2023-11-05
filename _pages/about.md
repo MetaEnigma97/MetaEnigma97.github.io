@@ -18,7 +18,7 @@ redirect_from:
 </div> -->
 💻 My research interests include machine learning and optimization algorthms on material/drug discovery.
 
-🏂 I love snowboarding, playing the guitar and travelling in my spare time. I have a cat named Chemical(Coco) in Japan.
+🏂 I love snowboarding, playing the guitar and travelling in my spare time. I have a cat named Coco and a hamster named Chem in Japan.
 
 ## News
 

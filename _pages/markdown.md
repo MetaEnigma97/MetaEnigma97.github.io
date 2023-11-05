@@ -10,7 +10,7 @@ redirect_from:
 ## Pets
 
 
-<center><img src="/images/coco.jpg" alt="image of coco"></center>
+<center><img src="/images/coco.jpg" alt="image of coco" style="width: 600px"></center>
 <center>Coco!!</center>
 
 <figure style="width: 600px">

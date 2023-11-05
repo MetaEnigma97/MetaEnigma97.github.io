@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zetian's homepage"
 title_separator          : "-"
-name                     : &name "Zetian MAO (毛 澤田)"
+name                     : &name "Zetian MAO"
 description              : &description "personal description"
 url                      : https://MetaEnigma97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zetian MAO"
+  name             : "Zetian MAO (毛 澤田)"
   avatar           : "profile.jpeg"
   bio              : "Final-year PhD Student in The University of Tokyo"
   location         : "Tokyo, Japan"

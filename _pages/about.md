@@ -33,3 +33,9 @@ redirect_from:
 </div>
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ"></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&cl=ffffff&w=a"></script>
+
+<a href="https://clustrmaps.com/site/1bx9c"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&cl=ffffff" /></a>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&co=3be3e4'></script>

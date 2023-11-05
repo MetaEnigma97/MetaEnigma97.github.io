@@ -32,10 +32,10 @@ Work experience
   
 Skills
 ======
-* Programming: Experienced: Python | Bash; Familiar: Java | C/C++
-* Frameworks & Libraries: PyTorch | Tensorflow | Gym | Jupyter | Matplotplib | Numpy | Pandas | Scikit-learn 
-* Cheminformatics: RDKit | OpenBabel | ASE | PyMatgen | Gaussian | VASP | GAMESS | GROMACS
-* Mechanical Engineering: SolidWorks | Keyshot | AutoCAD
+* Programming: Experienced: Python, Bash; Familiar: Java, C/C++
+* Frameworks & Libraries: PyTorch, Tensorflow, Gym, Jupyter, Matplotplib, Numpy, Pandas, Scikit-learn 
+* Cheminformatics: RDKit, OpenBabel, ASE, PyMatgen, Gaussian, VASP, GAMESS, GROMACS
+* Mechanical Engineering: SolidWorks, Keyshot, AutoCAD
 * Languages: Native: Chinese; Fluent: English (IELTS: 7.0; GRE: 321); Fundamental: Japanese
 
 Publications

@@ -31,11 +31,3 @@ redirect_from:
     <li>[06/2023] My paper "Chemical Design with GPU-based Ising Machines" is accepted to Digital Discovery!</li>
   </ul>
 </div>
-
-
-## Honors & Awards
-
-* Designing Future Society (DFS) Fellowship (~1%), Sep. 2021 – Sep. 2024 at The University of Tokyo
-* World-leading Innovation Graduate Study Program, Co-design Future Society (WINGS-CFS) (~3%), Apr. 2021 – Sep. 2024 at The University of Tokyo
-* Japanese Government MEXT Scholarship (~1%), Sep. 2019 - Sep. 2021 at The University of Tokyo
-* Shandong University Excellent Graduate in 2019 (~5%), Jun. 2019 at Shandong University

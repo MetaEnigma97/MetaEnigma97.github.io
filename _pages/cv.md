@@ -29,7 +29,14 @@ Work experience
 * [RIKEN Center for Advanced Intelligence Project (AIP)](https://www.riken.jp/en/research/labs/aip/): Student Trainee, Oct.2021-
   * Design liquid electret materials for stretchable energy harvesters based on machine learning.
   * Validate the designed promising candidate materials with quantum chemistry computation and experiments.
-  
+
+Honors & Awards
+======
+* Designing Future Society (DFS) Fellowship (~1%), Sep. 2021 – Sep. 2024 at The University of Tokyo
+* World-leading Innovation Graduate Study Program, Co-design Future Society (WINGS-CFS) (~3%), Apr. 2021 – Sep. 2024 at The University of Tokyo
+* Japanese Government MEXT Scholarship (~1%), Sep. 2019 - Sep. 2021 at The University of Tokyo
+* Shandong University Excellent Graduate in 2019 (~5%), Jun. 2019 at Shandong University
+
 Skills
 ======
 * Programming: Experienced: Python, Bash; Familiar: Java, C/C++

@@ -19,6 +19,13 @@ redirect_from:
   <figcaption style="text-align: center;">Chem!!</figcaption>
 </figure>
 
+## Sports
+
+<figure style="width: 600px">
+  <img src="/images/snowboard.jpg" alt="snowboard">
+  <figcaption style="text-align: center;">Snowboarding in Japan</figcaption>
+</figure>
+
 ## Travelling
 
 <figure style="width: 600px">
@@ -29,4 +36,9 @@ redirect_from:
 <figure style="width: 600px">
   <img src="/images/princeton.jpg" alt="princeton">
   <figcaption style="text-align: center;">Princeton University</figcaption>
+</figure>
+
+<figure style="width: 600px">
+  <img src="/images/kyoto.jpg" alt="kyoto">
+  <figcaption style="text-align: center;">Kyoto</figcaption>
 </figure>

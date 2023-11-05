@@ -31,3 +31,8 @@ redirect_from:
     <li>[06/2023] My paper "Chemical Design with GPU-based Ising Machines" is accepted to Digital Discovery!</li>
   </ul>
 </div>
+
+
+<br/><br/>
+
+<center><a href='https://clustrmaps.com/site/1bx9c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=c2efd6&w=a&t=n&d=i0zjqmRpUxltptYkoIylkMNze_2JWFqKszK7wGhl9cQ&co=ffffff'/></a><center>

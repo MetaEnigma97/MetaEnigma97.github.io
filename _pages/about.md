@@ -24,7 +24,7 @@ redirect_from:
 
 <div style="height: 300px; overflow: auto;">
   <ul>
-    <li>[10/2023] Accepted as a part-time emploty in Preferred Networks from December, 2023!</li>
+    <li>[12/2023] Start to work as a part-time employee in PreFerred Networks!!</li>
     <li>[09/2023] Start my academic visiting in CMU!</li>
     <li>[08/2023] Start my summer internship in Preferred Networks, Tokyo!</li>
     <li>[07/2023] My paper "AI-driven Discovery of Amorphous Fluorinated Polymer Electret with High Charge Stability for Energy Harvesting" is accepted to Advanced Materials!!</li>

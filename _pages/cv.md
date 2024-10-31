@@ -26,7 +26,7 @@ redirect_from:
   * R&D on material discovery algorithms using Neural Network Potential (NNP) in [Matlantis](https://matlantis.com/) Group.
   * Design equivariant neural networks for material property prediction. Initial results showed our model outperforms the current state-of-the-art models. More validation is going to be conducted to prepare an academic paper.
 
-* [RIKEN Center for Advanced Intelligence Project (AIP)](https://www.riken.jp/en/research/labs/aip/): Student Trainee, Oct.2021-
+* [RIKEN Center for Advanced Intelligence Project (AIP)](https://www.riken.jp/en/research/labs/aip/): Student Trainee, Oct.2021-Oct.2022
   * Design liquid electret materials for stretchable energy harvesters based on machine learning.
   * Validate the designed promising candidate materials with quantum chemistry computation and experiments.
 

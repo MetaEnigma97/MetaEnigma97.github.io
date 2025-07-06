@@ -24,7 +24,9 @@ redirect_from:
 
 <div style="height: 300px; overflow: auto;">
   <ul>
+    <li>[06/2025] Join Contemporary Amperex Technology Co., Limited (Hong Kong Research Institute) as an advanced AI engineer!</li>
     <li>[11/2024] New paper "Dielectric Tensor Prediction for Inorganic Materials Using Latent Information from Preferred Potential" is published on npj Computational Materials! </li>
+    <li>[09/2024] Join the Matlantis development group as a full-time engineer at Preffered Networks!!</li>
     <li>[09/2024] Obtained my PhD degree from The University of Tokyo!!</li>
     <li>[08/2024] Start a short visiting to NTU!</li>
     <li>[12/2023] Start to work as a part-time employee in PreFerred Networks!!</li>
